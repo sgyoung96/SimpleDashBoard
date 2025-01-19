@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDashBoard", "SimpleDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDashBoard.UI", "SimpleDashBoard.UI\SimpleDashBoard.UI.csproj", "{2F08AF19-402B-4118-B81F-D1BDE78C95E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDashBoard.DAC", "SimpleDashBoard.DAC\SimpleDashBoard.DAC.csproj", "{708C483A-5C80-4CA4-8B91-8C3D18ACD3F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2F08AF19-402B-4118-B81F-D1BDE78C95E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F08AF19-402B-4118-B81F-D1BDE78C95E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F08AF19-402B-4118-B81F-D1BDE78C95E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708C483A-5C80-4CA4-8B91-8C3D18ACD3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708C483A-5C80-4CA4-8B91-8C3D18ACD3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708C483A-5C80-4CA4-8B91-8C3D18ACD3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708C483A-5C80-4CA4-8B91-8C3D18ACD3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
